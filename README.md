@@ -53,3 +53,16 @@
 | `typedef` | Create a new type. |
 | `unsigned` | An unsigned modifier for integer data types. |
 | `volatile` | Declare a variable might be modified elsewhere. |
+
+## Type Sizes
+
+| Type | Description |
+--- | ---
+| `int8_t` | 8-bit signed integer |
+| `uint8_t` | 8-bit unsigned integer |
+| `int16_t` | 16-bit signed integer |
+| `uint16_t` | 16-bit unsigned integer |
+| `int32_t` | 32-bit signed integer |
+| `uint32_t` | 32-bit unsigned integer |
+| `int64_t` | 64-bit signed integer |
+| `uint64_t` | 64-bit unsigned integer |
